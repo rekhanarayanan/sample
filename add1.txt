@@ -1,0 +1,13 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+  int a,b,c;
+clrscr();
+cout<<"enter two numbers";
+cin>>a>>b;
+c=a+b;
+}
+cout<<"the result is"<<c;
+getch();
+}
